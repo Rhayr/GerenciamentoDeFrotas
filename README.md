@@ -1,4 +1,4 @@
-﻿# SIstema de Gerenciamento de Frotas
+﻿# Sistema de Gerenciamento de Frotas
 
 Este projeto é um sistema de gerenciamento de frotas em Java, que permite cadastrar, listar, pesquisar e excluir veículos da frota.
 
